@@ -110,11 +110,6 @@ Uses Semantic Kernel to orchestrate:
 
 ---
 
-## License
-Add your preferred license.
-
----
-
 ## Acknowledgements
 - Microsoft Semantic Kernel  
 - Stooq for historical market data  
